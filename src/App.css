@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+  background-image: url(/wallpaper.jpg); 
+  background-size: calc(400px);
+  background-repeat: repeat;
+}
